@@ -1,0 +1,67 @@
+Using the Binary Search Algorithm and trace table examples at the end of this document, complete the trace tables below for the Color Array. Upload this document to github and submit the link to your repository to the dropbox.
+
+1st search: violet
+First	Last	Middle	Comparison
+0	10	5	Violet< indigo
+5	10	7	Violet > magenta
+7	10	9	violet=violet
+					
+			
+
+2nd search: green
+First	Last	Middle	Comparison
+0	10	5	Green < indigo
+0	5	3	Green> dark-brown
+3	5	4	Green= green
+			
+			
+
+3rd search: yellow
+First	Last	Middle	Comparison
+0	10	5	Yellow > indigo
+5	10	7	Yellow > magenta
+7	10	9	Yellow > violet
+9	10	10	Yellow=yellow
+			
+
+Color array:
+aqua	[0]
+brown	[1]
+chartreuse	[2]
+dark brown	[3]
+green	[4]
+indigo	[5]
+lavender	[6]
+magenta	[7]
+red	[8]
+violet	[9]
+yellow	[10]
+
+
+
+
+
+
+1st search: violet
+First	Last	Middle	Comparison
+0	10	5	Violet< indigo
+5	10	7	Violet > magenta
+7	10	9	violet=violet
+					
+			
+
+2nd search: green
+First	Last	Middle	Comparison
+0	10	5	Green < indigo
+0	5	3	Green> dark-brown
+3	5	4	Green= green
+			
+			
+
+3rd search: yellow
+First	Last	Middle	Comparison
+0	10	5	Yellow > indigo
+5	10	7	Yellow > magenta
+7	10	9	Yellow > violet
+9	10	10	Yellow=yellow
+			
